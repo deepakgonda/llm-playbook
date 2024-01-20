@@ -1,0 +1,7 @@
+pip install python-dotenv
+pip install streamlit streamlit-chat
+pip install google-generativeai langchain-google-genai
+pip install tempfile
+pip install docx2txt
+pip install pdfminer.six
+pip install openpyxl
